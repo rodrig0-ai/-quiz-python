@@ -1,0 +1,27 @@
+[
+    {
+      "pergunta": "Qual função usamos para exibir algo no terminal?",
+      "alternativas": ["A) input()", "B) print()", "C) len()", "D) str()"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "O que é uma lista em Python?",
+      "alternativas": ["A) Um número decimal", "B) Um valor verdadeiro ou falso", "C) Uma coleção ordenada de itens", "D) Uma função"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "O que é uma variável em Python?",
+      "alternativas": ["A) Um tipo de função", "B) Um espaço para armazenar dados", "C) Um comando de repetição", "D) Um erro no código"],
+      "resposta": "B"  
+    },
+    {
+      "pergunta": "Para que serve a estrutura if?",
+      "alternativas": ["A) Repetir um código várias vezes", "B) Definir funções", "C) Tomar decisões no código", "D) Criar variáveis"],
+      "resposta": "C"  
+    },
+    {
+      "pergunta": "O que é uma função em Python?",
+      "alternativas": ["A) Um tipo de variável", "B) Um bloco de códigos reutilizável", "C) Um erro de sintaxe", "D) Um tipo de dado"],
+      "resposta": "B"
+    }
+  ]

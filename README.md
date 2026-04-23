@@ -13,7 +13,7 @@ Quiz de múltipla escolha sobre Python rodando no terminal.
 python quiz.py
 ```
 
-## Tecnologias
+## Tech Stack
 - Python 3
 - JSON
 - Módulos: `json`, `random`, `datetime`
